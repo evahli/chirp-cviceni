@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+.post__avatar {
+  width: 10rem;
+  height: 10rem;
+  background-size: cover;
+  border: 2px solid lightgray;
+  border-radius: 50%;
+}
